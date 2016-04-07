@@ -1,0 +1,17 @@
+p {font-family: sans-serif;color : #0000FF;}
+h1 {color: #FFFFFF;}
+.navBar li {float:left; margin:10px;}
+.navBar a {color: #00DDFF;}
+.mainLeft {clear:left;float:left;width:45%;border-style:solid;border-width:3px;border-color: #000000;padding:10px;background-color: #FFFFFF;}
+.mainRight{clear:right;float:right;width:45%;border-style:solid;border-width:3px;border-color: #000000;padding:10px;background-color: #FFFFFF;}
+.frigatesTable {clear:both; border-style:solid;border-collapse:collapse;background-color: #FF00CC;}
+.frigatesTable td {border-style:solid;padding:3px;}
+.frigatesTable th {border-style:solid;padding:3px; width:70px;}
+.oreTable {clear:both; border-style:solid;border-collapse:collapse;background-color: #DDDD00;}
+.oreTable td {border-style:solid;padding:3px;}
+.oreTable th {border-style:solid;padding:3px; width:70px;}
+.firstColumn {font-weight:bold;}
+.oreTable .firstColumn {font-weight:bold;background-color: #FFCC00;}
+.frigatesTable .firstColumn {font-weight:bold;background-color: #DD00DD;}
+#index {background: url("../imgs/bckgndBattle.gif");background-size:100%;background-color: #000000;background-repeat:no-repeat;}
+#oreTh {width:160px;}
